@@ -26,3 +26,9 @@ alter database aatams set search_path to 'aatams','public';
             null
           ); 
 ```          
+## Update admin user role
+```
+INSERT INTO sec_user_roles(
+            sec_role_id, sec_user_id)
+    VALUES (5, 99999999);
+```    
