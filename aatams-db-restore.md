@@ -2,7 +2,11 @@
 ```
 sudo -u postgres time pg_restore -d aatams -v --no-owner aatams.dump
 ```
-
+## Backup Database : Optional
+Create a backup aatams database for fast restore
+```
+CREATE DATABASE aatams_backup WITH TEMPLATE aatams OWNER aatams;
+```
 ## Add Extensions
 ```
 create extension postgis;
