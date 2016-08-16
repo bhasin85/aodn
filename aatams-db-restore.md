@@ -7,6 +7,14 @@ Create a backup aatams database for fast restore
 ```
 CREATE DATABASE aatams_backup WITH TEMPLATE aatams;
 ```
+
+## Restore Database : Optional
+Restore a backup aatams database for fast restore
+```
+DROP DATABASE aatams;
+CREATE DATABASE aatams WITH TEMPLATE aatams_backup;
+```
+
 ## Add Extensions
 ```
 create extension postgis;
