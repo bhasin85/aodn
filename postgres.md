@@ -6,6 +6,7 @@ SELECT c.relname FROM pg_class c WHERE c.relkind = 'S';
 ## SQL to get current hibernate_sequence
 ```
 select currval('hibernate_sequence');
+SELECT last_value FROM hibernate_sequence;
 ```
 
 ## SQL to get next hibernate_sequence
