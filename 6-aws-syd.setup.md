@@ -79,3 +79,5 @@ java -jar ./target/mafia-1.0.0.jar \
 ```
 aws s3 cp s3://aodn-github-backups/ s3://aodn-github-backups/ --recursive --metadata-directive REPLACE --cache-control no-cache
 ```
+## Create Geonetwork Harvester
+https://github.com/aodn/chef-private/pull/2046/files
