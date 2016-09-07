@@ -98,3 +98,14 @@
 </web-app>
 
 ```
+## Add user to geoserver-config/security/usergroup/default/users.xml
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<userRegistry version="1.0" xmlns="http://www.geoserver.org/security/users" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.geoserver.org/security/users users.xsd ">
+  <users>
+	<user enabled="true" name="admin" password="plain:admin"/>
+  </users>  
+  <groups>
+  </groups>  
+</userRegistry>
+```
