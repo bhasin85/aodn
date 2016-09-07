@@ -6,7 +6,7 @@
 
 ## Run ruby script to recreate harvester
 ```
-vagrant@vagrant-6-aws-syd:/var/chef/mnt/ebs/tomcat7/geonetwork_portal$ sudo /opt/chef/embedded/bin/ruby geonetwork-config-manager.rb -g http://172.28.128.3:8081/geonetwork -d "/mnt/ebs/geonetwork_portal" -c geonetwork-config-geonetwork.json -u admin -p Eqfumh9IbnXg97fbtrX6G9F
+vagrant@vagrant-6-aws-syd:/var/chef/mnt/ebs/tomcat7/geonetwork_portal$ sudo /opt/chef/embedded/bin/ruby geonetwork-config-manager.rb -g http://172.28.128.3:8081/geonetwork -d "/mnt/ebs/geonetwork_portal" -c geonetwork-config-geonetwork.json -u admin -p admin
 ```
 
 ## Run harvester "IMOS Catalogue"
