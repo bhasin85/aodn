@@ -1,5 +1,15 @@
 # Change Log
 
+## [4.25.5](https://github.com/bhasin85/aodn/tree/4.25.5) (2017-08-28)
+[Full Changelog](https://github.com/bhasin85/aodn/compare/4.25.4...4.25.5)
+
+**Fixed bugs:**
+
+- jenkins test 5 [\#20](https://github.com/bhasin85/aodn/issues/20)
+
+## [4.25.4](https://github.com/bhasin85/aodn/tree/4.25.4) (2017-08-28)
+[Full Changelog](https://github.com/bhasin85/aodn/compare/4.25.3...4.25.4)
+
 ## [4.25.3](https://github.com/bhasin85/aodn/tree/4.25.3) (2017-08-28)
 [Full Changelog](https://github.com/bhasin85/aodn/compare/4.25.2...4.25.3)
 
