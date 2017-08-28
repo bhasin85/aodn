@@ -6,6 +6,7 @@
 
 **Closed issues:**
 
+- change log test 2 [\#17](https://github.com/bhasin85/aodn/issues/17)
 - test [\#10](https://github.com/bhasin85/aodn/issues/10)
 
 **Merged pull requests:**
