@@ -1,8 +1,7 @@
 # Change Log
 
-## [Unreleased](https://github.com/bhasin85/aodn/tree/HEAD)
-
-[Full Changelog](https://github.com/bhasin85/aodn/compare/1.0...HEAD)
+## [2.0](https://github.com/bhasin85/aodn/tree/2.0) (2017-08-28)
+[Full Changelog](https://github.com/bhasin85/aodn/compare/1.0...2.0)
 
 **Closed issues:**
 
