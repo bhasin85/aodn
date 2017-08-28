@@ -1,8 +1,17 @@
 # Change Log
 
-## [Unreleased](https://github.com/bhasin85/aodn/tree/HEAD)
+## [4.25.3](https://github.com/bhasin85/aodn/tree/4.25.3) (2017-08-28)
+[Full Changelog](https://github.com/bhasin85/aodn/compare/4.25.2...4.25.3)
 
-[Full Changelog](https://github.com/bhasin85/aodn/compare/2.0...HEAD)
+## [4.25.2](https://github.com/bhasin85/aodn/tree/4.25.2) (2017-08-28)
+[Full Changelog](https://github.com/bhasin85/aodn/compare/4.25.1...4.25.2)
+
+**Closed issues:**
+
+- jenkins test 2 [\#19](https://github.com/bhasin85/aodn/issues/19)
+
+## [4.25.1](https://github.com/bhasin85/aodn/tree/4.25.1) (2017-08-28)
+[Full Changelog](https://github.com/bhasin85/aodn/compare/2.0...4.25.1)
 
 **Closed issues:**
 
