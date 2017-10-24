@@ -1,3 +1,4 @@
+
 ## Database Restore
 ```
 sudo -u postgres time pg_restore -d aatams -v --no-owner aatams.dump
@@ -7,6 +8,11 @@ sudo -u postgres time pg_restore -d aatams -v --no-owner aatams.dump
 Create a backup aatams database for fast restore
 ```
 CREATE DATABASE aatams_backup WITH TEMPLATE aatams;
+```
+
+Normal Backup
+```
+ssh aatams.aodn.org.au "sudo -u  postgres pg_dump aatams3" >> aatams-prod.bak
 ```
 
 ## Drop existing connections : Optional
